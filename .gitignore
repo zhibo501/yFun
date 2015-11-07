@@ -38,5 +38,14 @@
 *.x86_64
 *.hex
 
+
 # Debug files
 *.dSYM/
+
+
+# vim tmp files
+*.un~
+Session.vim
+.netrwhist
+*~
+
