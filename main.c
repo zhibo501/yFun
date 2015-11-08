@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <string.h>
 
 
 /*
@@ -24,4 +24,6 @@ int main()
 
 
 #define PW "piwei"
-#define UP “update for develop"b
+#define UP “update for develop"
+
+
