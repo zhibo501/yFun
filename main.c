@@ -20,3 +20,6 @@ int main()
 {
     return _m_mian();
 }
+
+
+#define PW "piwei"
