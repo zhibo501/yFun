@@ -1,11 +1,12 @@
 #include <stdio.h>
 
 
+
 /*
  * only for test 
  * hello world :)
  */
-int _m_mian()
+int _main_()
 {
     printf("hello world!\n");
     return 0;
@@ -18,5 +19,5 @@ int WinMain()
 int main()
 #endif
 {
-    return _m_mian();
+    return _main_();
 }
