@@ -24,3 +24,7 @@ int main()
 
 
 #define PW "piwei"
+
+#define EGRETI "You know nothing, Jon Snow"
+
+
