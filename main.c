@@ -14,9 +14,9 @@ int _main_()
 
 
 #ifdef WIN
-int WinMain()
+int WinMain(int argc, char *argv[])
 #else
-int main()
+int main(int argc, char *argv[])
 #endif
 {
     return _main_();
