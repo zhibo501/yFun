@@ -2,6 +2,13 @@
 #include <string.h>
 
 
+#define PW "piwei"
+
+#define EGRETI "You know nothing, Jon Snow"
+
+#define UP "update for develop"
+
+
 /*
  * only for test 
  * hello world :)
@@ -21,11 +28,4 @@ int main(int argc, char *argv[])
 {
     return _main_();
 }
-
-
-#define PW "piwei"
-
-#define EGRETI "You know nothing, Jon Snow"
-
-#define UP "update for develop"
 
