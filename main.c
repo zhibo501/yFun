@@ -27,6 +27,5 @@ int main(int argc, char *argv[])
 
 #define EGRETI "You know nothing, Jon Snow"
 
-#define UP “update for develop"
-
+#define UP "update for develop"
 
