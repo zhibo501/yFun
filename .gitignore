@@ -49,3 +49,10 @@ Session.vim
 .netrwhist
 *~
 
+# dirs 
+/bin
+/coverage
+/covdir
+/docs
+/vendor
+/release
